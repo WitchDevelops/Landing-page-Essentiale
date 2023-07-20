@@ -1,6 +1,6 @@
 # About
 
-This is a commercial project I did while working at eStoreLabs. It was implemented on e-retailer website Apteka Melissa, you can find it [here](https://www.apteka-melissa.pl/essentiale).
+This is a commercial project I did while working at eStoreLabs. It was implemented on the e-retailer website called Apteka Melissa; you can find it [here](https://www.apteka-melissa.pl/essentiale).
 
 ## Tech stack
 * Bootstrap5 (custom, internal version)
